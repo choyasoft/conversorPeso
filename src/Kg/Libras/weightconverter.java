@@ -40,7 +40,7 @@ public class weightconverter extends javax.swing.JFrame {
         lbsLabel = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Conversor Kg / Libras");
+        setTitle("Choyasoft's Conversor Kg a Libras");
         setBounds(new java.awt.Rectangle(600, 300, 0, 0));
 
         jPanel1.setBackground(javax.swing.UIManager.getDefaults().getColor("ComboBox.selectionBackground"));
